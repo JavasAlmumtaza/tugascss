@@ -1,0 +1,35 @@
+body {
+    background-color: purple
+}
+
+#kepala {
+    background-color: green;
+}
+
+#kanan {
+    background-color: rosybrown;
+}
+
+#kiri {
+    background-color: brown;
+}
+
+#bawah {
+    background-color: violet;
+}
+
+#atas {
+    background-color:red ;
+}
+
+.besertatulisan {
+    font-size: xx-large;
+}
+
+.warnatulisan {
+    color: white;
+}
+
+.ukurankotak {
+    height: 100px;
+}
